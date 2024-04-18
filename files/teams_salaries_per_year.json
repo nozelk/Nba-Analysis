@@ -1,0 +1,2462 @@
+{
+    "Atlanta Hawks": {
+        "2023": {
+            "Payroll Rank": 20,
+            "Payroll": 159153393
+        },
+        "2022": {
+            "Payroll Rank": 16,
+            "Payroll": 149836313
+        },
+        "2021": {
+            "Payroll Rank": 17,
+            "Payroll": 135166020
+        },
+        "2020": {
+            "Payroll Rank": 25,
+            "Payroll": 118804016
+        },
+        "2019": {
+            "Payroll Rank": 25,
+            "Payroll": 110702618
+        },
+        "2018": {
+            "Payroll Rank": 30,
+            "Payroll": 79180081
+        },
+        "2017": {
+            "Payroll Rank": 23,
+            "Payroll": 99992696
+        },
+        "2016": {
+            "Payroll Rank": 16,
+            "Payroll": 96315163
+        },
+        "2015": {
+            "Payroll Rank": 22,
+            "Payroll": 71661760
+        },
+        "2014": {
+            "Payroll Rank": 26,
+            "Payroll": 58320278
+        },
+        "2013": {
+            "Payroll Rank": 24,
+            "Payroll": 58998677
+        },
+        "2012": {
+            "Payroll Rank": 13,
+            "Payroll": 66710178
+        },
+        "2011": {
+            "Payroll Rank": 10,
+            "Payroll": 73669912
+        },
+        "2010": {
+            "Payroll Rank": 8,
+            "Payroll": 71469843
+        },
+        "2009": {
+            "Payroll Rank": 20,
+            "Payroll": 65883642
+        },
+        "2008": {
+            "Payroll Rank": 20,
+            "Payroll": 68168841
+        },
+        "2007": {
+            "Payroll Rank": 28,
+            "Payroll": 55501133
+        },
+        "2006": {
+            "Payroll Rank": 29,
+            "Payroll": 48581972
+        },
+        "2005": {
+            "Payroll Rank": 28,
+            "Payroll": 42944553
+        },
+        "2004": {
+            "Payroll Rank": 29,
+            "Payroll": 41059616
+        }
+    },
+    "Boston Celtics": {
+        "2023": {
+            "Payroll Rank": 5,
+            "Payroll": 185682281
+        },
+        "2022": {
+            "Payroll Rank": 4,
+            "Payroll": 178633307
+        },
+        "2021": {
+            "Payroll Rank": 12,
+            "Payroll": 136557646
+        },
+        "2020": {
+            "Payroll Rank": 10,
+            "Payroll": 132931565
+        },
+        "2019": {
+            "Payroll Rank": 20,
+            "Payroll": 117759332
+        },
+        "2018": {
+            "Payroll Rank": 9,
+            "Payroll": 125334993
+        },
+        "2017": {
+            "Payroll Rank": 15,
+            "Payroll": 115284776
+        },
+        "2016": {
+            "Payroll Rank": 20,
+            "Payroll": 93465326
+        },
+        "2015": {
+            "Payroll Rank": 14,
+            "Payroll": 77141919
+        },
+        "2014": {
+            "Payroll Rank": 23,
+            "Payroll": 62218516
+        },
+        "2013": {
+            "Payroll Rank": 12,
+            "Payroll": 70885503
+        },
+        "2012": {
+            "Payroll Rank": 5,
+            "Payroll": 75508399
+        },
+        "2011": {
+            "Payroll Rank": 5,
+            "Payroll": 79820530
+        },
+        "2010": {
+            "Payroll Rank": 4,
+            "Payroll": 82045867
+        },
+        "2009": {
+            "Payroll Rank": 4,
+            "Payroll": 83552174
+        },
+        "2008": {
+            "Payroll Rank": 5,
+            "Payroll": 79188973
+        },
+        "2007": {
+            "Payroll Rank": 6,
+            "Payroll": 74509455
+        },
+        "2006": {
+            "Payroll Rank": 18,
+            "Payroll": 62981479
+        },
+        "2005": {
+            "Payroll Rank": 21,
+            "Payroll": 56907300
+        },
+        "2004": {
+            "Payroll Rank": 10,
+            "Payroll": 64577356
+        }
+    },
+    "Cleveland Cavaliers": {
+        "2023": {
+            "Payroll Rank": 9,
+            "Payroll": 166874287
+        },
+        "2022": {
+            "Payroll Rank": 11,
+            "Payroll": 151966241
+        },
+        "2021": {
+            "Payroll Rank": 14,
+            "Payroll": 136385911
+        },
+        "2020": {
+            "Payroll Rank": 18,
+            "Payroll": 129605319
+        },
+        "2019": {
+            "Payroll Rank": 4,
+            "Payroll": 131059022
+        },
+        "2018": {
+            "Payroll Rank": 13,
+            "Payroll": 123255073
+        },
+        "2017": {
+            "Payroll Rank": 1,
+            "Payroll": 137722926
+        },
+        "2016": {
+            "Payroll Rank": 1,
+            "Payroll": 128522489
+        },
+        "2015": {
+            "Payroll Rank": 1,
+            "Payroll": 108300458
+        },
+        "2014": {
+            "Payroll Rank": 4,
+            "Payroll": 82592827
+        },
+        "2013": {
+            "Payroll Rank": 16,
+            "Payroll": 66654061
+        },
+        "2012": {
+            "Payroll Rank": 27,
+            "Payroll": 54472190
+        },
+        "2011": {
+            "Payroll Rank": 18,
+            "Payroll": 64875599
+        },
+        "2010": {
+            "Payroll Rank": 27,
+            "Payroll": 53990021
+        },
+        "2009": {
+            "Payroll Rank": 5,
+            "Payroll": 83398534
+        },
+        "2008": {
+            "Payroll Rank": 3,
+            "Payroll": 91298233
+        },
+        "2007": {
+            "Payroll Rank": 4,
+            "Payroll": 82217583
+        },
+        "2006": {
+            "Payroll Rank": 17,
+            "Payroll": 62992729
+        },
+        "2005": {
+            "Payroll Rank": 26,
+            "Payroll": 51303962
+        },
+        "2004": {
+            "Payroll Rank": 23,
+            "Payroll": 49175274
+        }
+    },
+    "New Orleans Pelicans": {
+        "2023": {
+            "Payroll Rank": 13,
+            "Payroll": 165903924
+        },
+        "2022": {
+            "Payroll Rank": 20,
+            "Payroll": 148360910
+        },
+        "2021": {
+            "Payroll Rank": 16,
+            "Payroll": 135793968
+        },
+        "2020": {
+            "Payroll Rank": 9,
+            "Payroll": 133901495
+        },
+        "2019": {
+            "Payroll Rank": 19,
+            "Payroll": 117868297
+        },
+        "2018": {
+            "Payroll Rank": 20,
+            "Payroll": 116052756
+        },
+        "2017": {
+            "Payroll Rank": 6,
+            "Payroll": 120814452
+        },
+        "2016": {
+            "Payroll Rank": 13,
+            "Payroll": 101616451
+        },
+        "2015": {
+            "Payroll Rank": 10,
+            "Payroll": 83709371
+        },
+        "2014": {
+            "Payroll Rank": 8,
+            "Payroll": 80012866
+        },
+        "2013": {
+            "Payroll Rank": 14,
+            "Payroll": 67358651
+        },
+        "2012": {
+            "Payroll Rank": 19,
+            "Payroll": 64134537
+        },
+        "2011": {
+            "Payroll Rank": 16,
+            "Payroll": 65441008
+        },
+        "2010": {
+            "Payroll Rank": 15,
+            "Payroll": 68230729
+        },
+        "2009": {
+            "Payroll Rank": 12,
+            "Payroll": 70163827
+        },
+        "2008": {
+            "Payroll Rank": 23,
+            "Payroll": 67530808
+        },
+        "2007": {
+            "Payroll Rank": 22,
+            "Payroll": 62609991
+        },
+        "2006": {
+            "Payroll Rank": 27,
+            "Payroll": 53748991
+        },
+        "2005": {
+            "Payroll Rank": 29,
+            "Payroll": 41277617
+        },
+        "2004": {
+            "Payroll Rank": 17,
+            "Payroll": 56572882
+        }
+    },
+    "Chicago Bulls": {
+        "2023": {
+            "Payroll Rank": 15,
+            "Payroll": 165630436
+        },
+        "2022": {
+            "Payroll Rank": 12,
+            "Payroll": 151964990
+        },
+        "2021": {
+            "Payroll Rank": 15,
+            "Payroll": 136083814
+        },
+        "2020": {
+            "Payroll Rank": 21,
+            "Payroll": 128963580
+        },
+        "2019": {
+            "Payroll Rank": 24,
+            "Payroll": 112601901
+        },
+        "2018": {
+            "Payroll Rank": 24,
+            "Payroll": 112598201
+        },
+        "2017": {
+            "Payroll Rank": 29,
+            "Payroll": 90466801
+        },
+        "2016": {
+            "Payroll Rank": 21,
+            "Payroll": 92522306
+        },
+        "2015": {
+            "Payroll Rank": 7,
+            "Payroll": 87073838
+        },
+        "2014": {
+            "Payroll Rank": 20,
+            "Payroll": 67414682
+        },
+        "2013": {
+            "Payroll Rank": 6,
+            "Payroll": 73336893
+        },
+        "2012": {
+            "Payroll Rank": 6,
+            "Payroll": 74491280
+        },
+        "2011": {
+            "Payroll Rank": 13,
+            "Payroll": 69548447
+        },
+        "2010": {
+            "Payroll Rank": 26,
+            "Payroll": 54538076
+        },
+        "2009": {
+            "Payroll Rank": 13,
+            "Payroll": 69700359
+        },
+        "2008": {
+            "Payroll Rank": 21,
+            "Payroll": 68126774
+        },
+        "2007": {
+            "Payroll Rank": 21,
+            "Payroll": 63084166
+        },
+        "2006": {
+            "Payroll Rank": 26,
+            "Payroll": 54754904
+        },
+        "2005": {
+            "Payroll Rank": 19,
+            "Payroll": 57166530
+        },
+        "2004": {
+            "Payroll Rank": 16,
+            "Payroll": 57276129
+        }
+    },
+    "Dallas Mavericks": {
+        "2023": {
+            "Payroll Rank": 10,
+            "Payroll": 166755884
+        },
+        "2022": {
+            "Payroll Rank": 5,
+            "Payroll": 177244238
+        },
+        "2021": {
+            "Payroll Rank": 25,
+            "Payroll": 126696965
+        },
+        "2020": {
+            "Payroll Rank": 23,
+            "Payroll": 127657823
+        },
+        "2019": {
+            "Payroll Rank": 15,
+            "Payroll": 120871082
+        },
+        "2018": {
+            "Payroll Rank": 29,
+            "Payroll": 86958881
+        },
+        "2017": {
+            "Payroll Rank": 30,
+            "Payroll": 85440245
+        },
+        "2016": {
+            "Payroll Rank": 12,
+            "Payroll": 102354966
+        },
+        "2015": {
+            "Payroll Rank": 16,
+            "Payroll": 75397067
+        },
+        "2014": {
+            "Payroll Rank": 3,
+            "Payroll": 84820225
+        },
+        "2013": {
+            "Payroll Rank": 5,
+            "Payroll": 75012158
+        },
+        "2012": {
+            "Payroll Rank": 9,
+            "Payroll": 69766571
+        },
+        "2011": {
+            "Payroll Rank": 6,
+            "Payroll": 77180233
+        },
+        "2010": {
+            "Payroll Rank": 3,
+            "Payroll": 85409890
+        },
+        "2009": {
+            "Payroll Rank": 2,
+            "Payroll": 88916075
+        },
+        "2008": {
+            "Payroll Rank": 2,
+            "Payroll": 95045559
+        },
+        "2007": {
+            "Payroll Rank": 1,
+            "Payroll": 101694879
+        },
+        "2006": {
+            "Payroll Rank": 2,
+            "Payroll": 88531846
+        },
+        "2005": {
+            "Payroll Rank": 2,
+            "Payroll": 98454832
+        },
+        "2004": {
+            "Payroll Rank": 2,
+            "Payroll": 91908443
+        }
+    },
+    "Denver Nuggets": {
+        "2023": {
+            "Payroll Rank": 6,
+            "Payroll": 181922992
+        },
+        "2022": {
+            "Payroll Rank": 8,
+            "Payroll": 162338665
+        },
+        "2021": {
+            "Payroll Rank": 10,
+            "Payroll": 137963926
+        },
+        "2020": {
+            "Payroll Rank": 17,
+            "Payroll": 129793210
+        },
+        "2019": {
+            "Payroll Rank": 8,
+            "Payroll": 128746180
+        },
+        "2018": {
+            "Payroll Rank": 18,
+            "Payroll": 118327016
+        },
+        "2017": {
+            "Payroll Rank": 18,
+            "Payroll": 107543599
+        },
+        "2016": {
+            "Payroll Rank": 27,
+            "Payroll": 83836460
+        },
+        "2015": {
+            "Payroll Rank": 20,
+            "Payroll": 72589023
+        },
+        "2014": {
+            "Payroll Rank": 28,
+            "Payroll": 56820307
+        },
+        "2013": {
+            "Payroll Rank": 17,
+            "Payroll": 65782065
+        },
+        "2012": {
+            "Payroll Rank": 21,
+            "Payroll": 63444254
+        },
+        "2011": {
+            "Payroll Rank": 22,
+            "Payroll": 58553173
+        },
+        "2010": {
+            "Payroll Rank": 16,
+            "Payroll": 68019290
+        },
+        "2009": {
+            "Payroll Rank": 8,
+            "Payroll": 74935538
+        },
+        "2008": {
+            "Payroll Rank": 14,
+            "Payroll": 70121003
+        },
+        "2007": {
+            "Payroll Rank": 3,
+            "Payroll": 82958227
+        },
+        "2006": {
+            "Payroll Rank": 9,
+            "Payroll": 65517776
+        },
+        "2005": {
+            "Payroll Rank": 22,
+            "Payroll": 56492172
+        },
+        "2004": {
+            "Payroll Rank": 25,
+            "Payroll": 46101759
+        }
+    },
+    "Golden State Warriors": {
+        "2023": {
+            "Payroll Rank": 1,
+            "Payroll": 209366344
+        },
+        "2022": {
+            "Payroll Rank": 2,
+            "Payroll": 192386134
+        },
+        "2021": {
+            "Payroll Rank": 1,
+            "Payroll": 178980766
+        },
+        "2020": {
+            "Payroll Rank": 1,
+            "Payroll": 171105334
+        },
+        "2019": {
+            "Payroll Rank": 7,
+            "Payroll": 129254928
+        },
+        "2018": {
+            "Payroll Rank": 2,
+            "Payroll": 146291276
+        },
+        "2017": {
+            "Payroll Rank": 2,
+            "Payroll": 137610134
+        },
+        "2016": {
+            "Payroll Rank": 14,
+            "Payroll": 101584835
+        },
+        "2015": {
+            "Payroll Rank": 4,
+            "Payroll": 93669566
+        },
+        "2014": {
+            "Payroll Rank": 14,
+            "Payroll": 73611166
+        },
+        "2013": {
+            "Payroll Rank": 8,
+            "Payroll": 72503122
+        },
+        "2012": {
+            "Payroll Rank": 7,
+            "Payroll": 70036985
+        },
+        "2011": {
+            "Payroll Rank": 19,
+            "Payroll": 61576901
+        },
+        "2010": {
+            "Payroll Rank": 14,
+            "Payroll": 68415336
+        },
+        "2009": {
+            "Payroll Rank": 21,
+            "Payroll": 65352372
+        },
+        "2008": {
+            "Payroll Rank": 24,
+            "Payroll": 67416431
+        },
+        "2007": {
+            "Payroll Rank": 24,
+            "Payroll": 62148303
+        },
+        "2006": {
+            "Payroll Rank": 10,
+            "Payroll": 65012368
+        },
+        "2005": {
+            "Payroll Rank": 20,
+            "Payroll": 57114566
+        },
+        "2004": {
+            "Payroll Rank": 19,
+            "Payroll": 54943723
+        }
+    },
+    "Houston Rockets": {
+        "2023": {
+            "Payroll Rank": 24,
+            "Payroll": 150456730
+        },
+        "2022": {
+            "Payroll Rank": 24,
+            "Payroll": 137579793
+        },
+        "2021": {
+            "Payroll Rank": 19,
+            "Payroll": 132267085
+        },
+        "2020": {
+            "Payroll Rank": 13,
+            "Payroll": 131784255
+        },
+        "2019": {
+            "Payroll Rank": 9,
+            "Payroll": 128109922
+        },
+        "2018": {
+            "Payroll Rank": 8,
+            "Payroll": 126474100
+        },
+        "2017": {
+            "Payroll Rank": 8,
+            "Payroll": 119905532
+        },
+        "2016": {
+            "Payroll Rank": 23,
+            "Payroll": 90956067
+        },
+        "2015": {
+            "Payroll Rank": 6,
+            "Payroll": 87504058
+        },
+        "2014": {
+            "Payroll Rank": 10,
+            "Payroll": 76849302
+        },
+        "2013": {
+            "Payroll Rank": 25,
+            "Payroll": 57823063
+        },
+        "2012": {
+            "Payroll Rank": 30,
+            "Payroll": 48048265
+        },
+        "2011": {
+            "Payroll Rank": 25,
+            "Payroll": 57021755
+        },
+        "2010": {
+            "Payroll Rank": 7,
+            "Payroll": 72315654
+        },
+        "2009": {
+            "Payroll Rank": 14,
+            "Payroll": 69095315
+        },
+        "2008": {
+            "Payroll Rank": 9,
+            "Payroll": 73302272
+        },
+        "2007": {
+            "Payroll Rank": 12,
+            "Payroll": 69894114
+        },
+        "2006": {
+            "Payroll Rank": 14,
+            "Payroll": 63837566
+        },
+        "2005": {
+            "Payroll Rank": 7,
+            "Payroll": 69257404
+        },
+        "2004": {
+            "Payroll Rank": 13,
+            "Payroll": 60284303
+        }
+    },
+    "Los Angeles Clippers": {
+        "2023": {
+            "Payroll Rank": 2,
+            "Payroll": 202193406
+        },
+        "2022": {
+            "Payroll Rank": 1,
+            "Payroll": 192905421
+        },
+        "2021": {
+            "Payroll Rank": 3,
+            "Payroll": 168378382
+        },
+        "2020": {
+            "Payroll Rank": 4,
+            "Payroll": 139722606
+        },
+        "2019": {
+            "Payroll Rank": 3,
+            "Payroll": 131506341
+        },
+        "2018": {
+            "Payroll Rank": 19,
+            "Payroll": 118026816
+        },
+        "2017": {
+            "Payroll Rank": 10,
+            "Payroll": 119093010
+        },
+        "2016": {
+            "Payroll Rank": 3,
+            "Payroll": 114756766
+        },
+        "2015": {
+            "Payroll Rank": 2,
+            "Payroll": 97019321
+        },
+        "2014": {
+            "Payroll Rank": 2,
+            "Payroll": 85259447
+        },
+        "2013": {
+            "Payroll Rank": 7,
+            "Payroll": 73049774
+        },
+        "2012": {
+            "Payroll Rank": 10,
+            "Payroll": 69152721
+        },
+        "2011": {
+            "Payroll Rank": 14,
+            "Payroll": 67333389
+        },
+        "2010": {
+            "Payroll Rank": 29,
+            "Payroll": 53225329
+        },
+        "2009": {
+            "Payroll Rank": 25,
+            "Payroll": 61616409
+        },
+        "2008": {
+            "Payroll Rank": 28,
+            "Payroll": 62764206
+        },
+        "2007": {
+            "Payroll Rank": 19,
+            "Payroll": 64847945
+        },
+        "2006": {
+            "Payroll Rank": 23,
+            "Payroll": 59181038
+        },
+        "2005": {
+            "Payroll Rank": 25,
+            "Payroll": 51358645
+        },
+        "2004": {
+            "Payroll Rank": 26,
+            "Payroll": 45483265
+        }
+    },
+    "Los Angeles Lakers": {
+        "2023": {
+            "Payroll Rank": 8,
+            "Payroll": 169934920
+        },
+        "2022": {
+            "Payroll Rank": 7,
+            "Payroll": 169391473
+        },
+        "2021": {
+            "Payroll Rank": 4,
+            "Payroll": 164409293
+        },
+        "2020": {
+            "Payroll Rank": 5,
+            "Payroll": 139334713
+        },
+        "2019": {
+            "Payroll Rank": 11,
+            "Payroll": 123971686
+        },
+        "2018": {
+            "Payroll Rank": 27,
+            "Payroll": 107225482
+        },
+        "2017": {
+            "Payroll Rank": 21,
+            "Payroll": 103126557
+        },
+        "2016": {
+            "Payroll Rank": 19,
+            "Payroll": 94781848
+        },
+        "2015": {
+            "Payroll Rank": 19,
+            "Payroll": 72694352
+        },
+        "2014": {
+            "Payroll Rank": 9,
+            "Payroll": 77546500
+        },
+        "2013": {
+            "Payroll Rank": 4,
+            "Payroll": 77423614
+        },
+        "2012": {
+            "Payroll Rank": 1,
+            "Payroll": 100131988
+        },
+        "2011": {
+            "Payroll Rank": 1,
+            "Payroll": 88264478
+        },
+        "2010": {
+            "Payroll Rank": 1,
+            "Payroll": 91428140
+        },
+        "2009": {
+            "Payroll Rank": 1,
+            "Payroll": 91378064
+        },
+        "2008": {
+            "Payroll Rank": 6,
+            "Payroll": 78245793
+        },
+        "2007": {
+            "Payroll Rank": 9,
+            "Payroll": 72626796
+        },
+        "2006": {
+            "Payroll Rank": 3,
+            "Payroll": 77099949
+        },
+        "2005": {
+            "Payroll Rank": 6,
+            "Payroll": 72917945
+        },
+        "2004": {
+            "Payroll Rank": 9,
+            "Payroll": 65059098
+        }
+    },
+    "Miami Heat": {
+        "2023": {
+            "Payroll Rank": 7,
+            "Payroll": 177143542
+        },
+        "2022": {
+            "Payroll Rank": 13,
+            "Payroll": 151408266
+        },
+        "2021": {
+            "Payroll Rank": 8,
+            "Payroll": 140840240
+        },
+        "2020": {
+            "Payroll Rank": 8,
+            "Payroll": 134731235
+        },
+        "2019": {
+            "Payroll Rank": 6,
+            "Payroll": 129867871
+        },
+        "2018": {
+            "Payroll Rank": 1,
+            "Payroll": 153171497
+        },
+        "2017": {
+            "Payroll Rank": 4,
+            "Payroll": 133624374
+        },
+        "2016": {
+            "Payroll Rank": 15,
+            "Payroll": 100740770
+        },
+        "2015": {
+            "Payroll Rank": 8,
+            "Payroll": 85764781
+        },
+        "2014": {
+            "Payroll Rank": 11,
+            "Payroll": 75813041
+        },
+        "2013": {
+            "Payroll Rank": 3,
+            "Payroll": 80841617
+        },
+        "2012": {
+            "Payroll Rank": 3,
+            "Payroll": 80427933
+        },
+        "2011": {
+            "Payroll Rank": 8,
+            "Payroll": 75469639
+        },
+        "2010": {
+            "Payroll Rank": 19,
+            "Payroll": 66205855
+        },
+        "2009": {
+            "Payroll Rank": 9,
+            "Payroll": 74208013
+        },
+        "2008": {
+            "Payroll Rank": 13,
+            "Payroll": 70297059
+        },
+        "2007": {
+            "Payroll Rank": 5,
+            "Payroll": 74767603
+        },
+        "2006": {
+            "Payroll Rank": 12,
+            "Payroll": 64416312
+        },
+        "2005": {
+            "Payroll Rank": 15,
+            "Payroll": 60732452
+        },
+        "2004": {
+            "Payroll Rank": 14,
+            "Payroll": 59523529
+        }
+    },
+    "Milwaukee Bucks": {
+        "2023": {
+            "Payroll Rank": 4,
+            "Payroll": 187346674
+        },
+        "2022": {
+            "Payroll Rank": 3,
+            "Payroll": 182930771
+        },
+        "2021": {
+            "Payroll Rank": 5,
+            "Payroll": 160875421
+        },
+        "2020": {
+            "Payroll Rank": 7,
+            "Payroll": 136623929
+        },
+        "2019": {
+            "Payroll Rank": 12,
+            "Payroll": 122612183
+        },
+        "2018": {
+            "Payroll Rank": 5,
+            "Payroll": 130988604
+        },
+        "2017": {
+            "Payroll Rank": 7,
+            "Payroll": 120521249
+        },
+        "2016": {
+            "Payroll Rank": 17,
+            "Payroll": 96245877
+        },
+        "2015": {
+            "Payroll Rank": 18,
+            "Payroll": 73843541
+        },
+        "2014": {
+            "Payroll Rank": 29,
+            "Payroll": 54473275
+        },
+        "2013": {
+            "Payroll Rank": 29,
+            "Payroll": 54400846
+        },
+        "2012": {
+            "Payroll Rank": 23,
+            "Payroll": 62410041
+        },
+        "2011": {
+            "Payroll Rank": 20,
+            "Payroll": 60192388
+        },
+        "2010": {
+            "Payroll Rank": 12,
+            "Payroll": 69076690
+        },
+        "2009": {
+            "Payroll Rank": 18,
+            "Payroll": 66775602
+        },
+        "2008": {
+            "Payroll Rank": 11,
+            "Payroll": 71360656
+        },
+        "2007": {
+            "Payroll Rank": 23,
+            "Payroll": 62571522
+        },
+        "2006": {
+            "Payroll Rank": 15,
+            "Payroll": 63498518
+        },
+        "2005": {
+            "Payroll Rank": 11,
+            "Payroll": 63022514
+        },
+        "2004": {
+            "Payroll Rank": 15,
+            "Payroll": 57448246
+        }
+    },
+    "Minnesota Timberwolves": {
+        "2023": {
+            "Payroll Rank": 11,
+            "Payroll": 166334327
+        },
+        "2022": {
+            "Payroll Rank": 21,
+            "Payroll": 145793656
+        },
+        "2021": {
+            "Payroll Rank": 11,
+            "Payroll": 137432702
+        },
+        "2020": {
+            "Payroll Rank": 15,
+            "Payroll": 130334934
+        },
+        "2019": {
+            "Payroll Rank": 21,
+            "Payroll": 114202982
+        },
+        "2018": {
+            "Payroll Rank": 14,
+            "Payroll": 121962221
+        },
+        "2017": {
+            "Payroll Rank": 14,
+            "Payroll": 116075131
+        },
+        "2016": {
+            "Payroll Rank": 28,
+            "Payroll": 83527580
+        },
+        "2015": {
+            "Payroll Rank": 21,
+            "Payroll": 72287243
+        },
+        "2014": {
+            "Payroll Rank": 19,
+            "Payroll": 69378954
+        },
+        "2013": {
+            "Payroll Rank": 13,
+            "Payroll": 68564040
+        },
+        "2012": {
+            "Payroll Rank": 18,
+            "Payroll": 64329748
+        },
+        "2011": {
+            "Payroll Rank": 26,
+            "Payroll": 56844339
+        },
+        "2010": {
+            "Payroll Rank": 28,
+            "Payroll": 53461123
+        },
+        "2009": {
+            "Payroll Rank": 24,
+            "Payroll": 62253360
+        },
+        "2008": {
+            "Payroll Rank": 25,
+            "Payroll": 66445144
+        },
+        "2007": {
+            "Payroll Rank": 13,
+            "Payroll": 69043895
+        },
+        "2006": {
+            "Payroll Rank": 6,
+            "Payroll": 66820673
+        },
+        "2005": {
+            "Payroll Rank": 14,
+            "Payroll": 61830186
+        },
+        "2004": {
+            "Payroll Rank": 5,
+            "Payroll": 70123411
+        }
+    },
+    "Brooklyn Nets": {
+        "2023": {
+            "Payroll Rank": 21,
+            "Payroll": 155574918
+        },
+        "2022": {
+            "Payroll Rank": 9,
+            "Payroll": 159566723
+        },
+        "2021": {
+            "Payroll Rank": 2,
+            "Payroll": 174811922
+        },
+        "2020": {
+            "Payroll Rank": 2,
+            "Payroll": 170444633
+        },
+        "2019": {
+            "Payroll Rank": 18,
+            "Payroll": 118889943
+        },
+        "2018": {
+            "Payroll Rank": 17,
+            "Payroll": 118850600
+        },
+        "2017": {
+            "Payroll Rank": 26,
+            "Payroll": 95475397
+        },
+        "2016": {
+            "Payroll Rank": 29,
+            "Payroll": 82391482
+        },
+        "2015": {
+            "Payroll Rank": 12,
+            "Payroll": 80258302
+        },
+        "2014": {
+            "Payroll Rank": 1,
+            "Payroll": 87817289
+        },
+        "2013": {
+            "Payroll Rank": 1,
+            "Payroll": 102589967
+        },
+        "2012": {
+            "Payroll Rank": 2,
+            "Payroll": 87644649
+        },
+        "2011": {
+            "Payroll Rank": 17,
+            "Payroll": 65281235
+        },
+        "2010": {
+            "Payroll Rank": 23,
+            "Payroll": 58495989
+        },
+        "2009": {
+            "Payroll Rank": 27,
+            "Payroll": 59366715
+        },
+        "2008": {
+            "Payroll Rank": 29,
+            "Payroll": 62666523
+        },
+        "2007": {
+            "Payroll Rank": 25,
+            "Payroll": 61836211
+        },
+        "2006": {
+            "Payroll Rank": 11,
+            "Payroll": 64486110
+        },
+        "2005": {
+            "Payroll Rank": 9,
+            "Payroll": 66449350
+        },
+        "2004": {
+            "Payroll Rank": 18,
+            "Payroll": 54983980
+        }
+    },
+    "New York Knicks": {
+        "2023": {
+            "Payroll Rank": 12,
+            "Payroll": 166273558
+        },
+        "2022": {
+            "Payroll Rank": 17,
+            "Payroll": 148987936
+        },
+        "2021": {
+            "Payroll Rank": 28,
+            "Payroll": 120644081
+        },
+        "2020": {
+            "Payroll Rank": 29,
+            "Payroll": 102137151
+        },
+        "2019": {
+            "Payroll Rank": 27,
+            "Payroll": 100232129
+        },
+        "2018": {
+            "Payroll Rank": 12,
+            "Payroll": 123387454
+        },
+        "2017": {
+            "Payroll Rank": 20,
+            "Payroll": 105403130
+        },
+        "2016": {
+            "Payroll Rank": 11,
+            "Payroll": 102593418
+        },
+        "2015": {
+            "Payroll Rank": 17,
+            "Payroll": 74237021
+        },
+        "2014": {
+            "Payroll Rank": 5,
+            "Payroll": 81369219
+        },
+        "2013": {
+            "Payroll Rank": 2,
+            "Payroll": 89072787
+        },
+        "2012": {
+            "Payroll Rank": 4,
+            "Payroll": 79977119
+        },
+        "2011": {
+            "Payroll Rank": 7,
+            "Payroll": 77093212
+        },
+        "2010": {
+            "Payroll Rank": 17,
+            "Payroll": 67016562
+        },
+        "2009": {
+            "Payroll Rank": 3,
+            "Payroll": 85710076
+        },
+        "2008": {
+            "Payroll Rank": 1,
+            "Payroll": 96643646
+        },
+        "2007": {
+            "Payroll Rank": 2,
+            "Payroll": 96190114
+        },
+        "2006": {
+            "Payroll Rank": 1,
+            "Payroll": 117350866
+        },
+        "2005": {
+            "Payroll Rank": 1,
+            "Payroll": 126631098
+        },
+        "2004": {
+            "Payroll Rank": 1,
+            "Payroll": 102567539
+        }
+    },
+    "Orlando Magic": {
+        "2023": {
+            "Payroll Rank": 30,
+            "Payroll": 132643598
+        },
+        "2022": {
+            "Payroll Rank": 27,
+            "Payroll": 126107324
+        },
+        "2021": {
+            "Payroll Rank": 24,
+            "Payroll": 126786646
+        },
+        "2020": {
+            "Payroll Rank": 24,
+            "Payroll": 121739163
+        },
+        "2019": {
+            "Payroll Rank": 10,
+            "Payroll": 126095610
+        },
+        "2018": {
+            "Payroll Rank": 22,
+            "Payroll": 114394213
+        },
+        "2017": {
+            "Payroll Rank": 25,
+            "Payroll": 98700258
+        },
+        "2016": {
+            "Payroll Rank": 8,
+            "Payroll": 104096951
+        },
+        "2015": {
+            "Payroll Rank": 29,
+            "Payroll": 63199651
+        },
+        "2014": {
+            "Payroll Rank": 25,
+            "Payroll": 59629210
+        },
+        "2013": {
+            "Payroll Rank": 26,
+            "Payroll": 56948031
+        },
+        "2012": {
+            "Payroll Rank": 15,
+            "Payroll": 66557496
+        },
+        "2011": {
+            "Payroll Rank": 2,
+            "Payroll": 87955505
+        },
+        "2010": {
+            "Payroll Rank": 2,
+            "Payroll": 90770804
+        },
+        "2009": {
+            "Payroll Rank": 6,
+            "Payroll": 82200916
+        },
+        "2008": {
+            "Payroll Rank": 15,
+            "Payroll": 69672979
+        },
+        "2007": {
+            "Payroll Rank": 27,
+            "Payroll": 58165973
+        },
+        "2006": {
+            "Payroll Rank": 22,
+            "Payroll": 61447108
+        },
+        "2005": {
+            "Payroll Rank": 5,
+            "Payroll": 75784782
+        },
+        "2004": {
+            "Payroll Rank": 7,
+            "Payroll": 66445249
+        }
+    },
+    "Indiana Pacers": {
+        "2023": {
+            "Payroll Rank": 25,
+            "Payroll": 148472330
+        },
+        "2022": {
+            "Payroll Rank": 29,
+            "Payroll": 125706114
+        },
+        "2021": {
+            "Payroll Rank": 9,
+            "Payroll": 138181486
+        },
+        "2020": {
+            "Payroll Rank": 16,
+            "Payroll": 130237102
+        },
+        "2019": {
+            "Payroll Rank": 23,
+            "Payroll": 112872260
+        },
+        "2018": {
+            "Payroll Rank": 25,
+            "Payroll": 110724804
+        },
+        "2017": {
+            "Payroll Rank": 27,
+            "Payroll": 95271736
+        },
+        "2016": {
+            "Payroll Rank": 24,
+            "Payroll": 90279072
+        },
+        "2015": {
+            "Payroll Rank": 23,
+            "Payroll": 71605233
+        },
+        "2014": {
+            "Payroll Rank": 13,
+            "Payroll": 74793526
+        },
+        "2013": {
+            "Payroll Rank": 15,
+            "Payroll": 67182414
+        },
+        "2012": {
+            "Payroll Rank": 16,
+            "Payroll": 66107195
+        },
+        "2011": {
+            "Payroll Rank": 29,
+            "Payroll": 51554083
+        },
+        "2010": {
+            "Payroll Rank": 22,
+            "Payroll": 65088630
+        },
+        "2009": {
+            "Payroll Rank": 19,
+            "Payroll": 66733257
+        },
+        "2008": {
+            "Payroll Rank": 16,
+            "Payroll": 69668818
+        },
+        "2007": {
+            "Payroll Rank": 14,
+            "Payroll": 66260246
+        },
+        "2006": {
+            "Payroll Rank": 16,
+            "Payroll": 63118965
+        },
+        "2005": {
+            "Payroll Rank": 4,
+            "Payroll": 78791779
+        },
+        "2004": {
+            "Payroll Rank": 8,
+            "Payroll": 66064780
+        }
+    },
+    "Philadelphia 76ers": {
+        "2023": {
+            "Payroll Rank": 14,
+            "Payroll": 165673449
+        },
+        "2022": {
+            "Payroll Rank": 15,
+            "Payroll": 150496913
+        },
+        "2021": {
+            "Payroll Rank": 7,
+            "Payroll": 148922969
+        },
+        "2020": {
+            "Payroll Rank": 3,
+            "Payroll": 147825311
+        },
+        "2019": {
+            "Payroll Rank": 5,
+            "Payroll": 129912339
+        },
+        "2018": {
+            "Payroll Rank": 21,
+            "Payroll": 115127167
+        },
+        "2017": {
+            "Payroll Rank": 22,
+            "Payroll": 100797386
+        },
+        "2016": {
+            "Payroll Rank": 26,
+            "Payroll": 84775343
+        },
+        "2015": {
+            "Payroll Rank": 27,
+            "Payroll": 64583220
+        },
+        "2014": {
+            "Payroll Rank": 30,
+            "Payroll": 54355571
+        },
+        "2013": {
+            "Payroll Rank": 30,
+            "Payroll": 51741312
+        },
+        "2012": {
+            "Payroll Rank": 14,
+            "Payroll": 66697839
+        },
+        "2011": {
+            "Payroll Rank": 15,
+            "Payroll": 66672368
+        },
+        "2010": {
+            "Payroll Rank": 13,
+            "Payroll": 68915246
+        },
+        "2009": {
+            "Payroll Rank": 23,
+            "Payroll": 64883448
+        },
+        "2008": {
+            "Payroll Rank": 19,
+            "Payroll": 68301007
+        },
+        "2007": {
+            "Payroll Rank": 7,
+            "Payroll": 74038229
+        },
+        "2006": {
+            "Payroll Rank": 5,
+            "Payroll": 69140163
+        },
+        "2005": {
+            "Payroll Rank": 3,
+            "Payroll": 84807300
+        },
+        "2004": {
+            "Payroll Rank": 4,
+            "Payroll": 71951878
+        }
+    },
+    "Phoenix Suns": {
+        "2023": {
+            "Payroll Rank": 3,
+            "Payroll": 193838882
+        },
+        "2022": {
+            "Payroll Rank": 6,
+            "Payroll": 176042453
+        },
+        "2021": {
+            "Payroll Rank": 13,
+            "Payroll": 136476474
+        },
+        "2020": {
+            "Payroll Rank": 22,
+            "Payroll": 128858241
+        },
+        "2019": {
+            "Payroll Rank": 28,
+            "Payroll": 98539675
+        },
+        "2018": {
+            "Payroll Rank": 26,
+            "Payroll": 108692835
+        },
+        "2017": {
+            "Payroll Rank": 28,
+            "Payroll": 92684083
+        },
+        "2016": {
+            "Payroll Rank": 25,
+            "Payroll": 89754590
+        },
+        "2015": {
+            "Payroll Rank": 26,
+            "Payroll": 68095365
+        },
+        "2014": {
+            "Payroll Rank": 27,
+            "Payroll": 58018672
+        },
+        "2013": {
+            "Payroll Rank": 28,
+            "Payroll": 55569468
+        },
+        "2012": {
+            "Payroll Rank": 29,
+            "Payroll": 54196264
+        },
+        "2011": {
+            "Payroll Rank": 4,
+            "Payroll": 80640576
+        },
+        "2010": {
+            "Payroll Rank": 20,
+            "Payroll": 65979054
+        },
+        "2009": {
+            "Payroll Rank": 22,
+            "Payroll": 65288544
+        },
+        "2008": {
+            "Payroll Rank": 7,
+            "Payroll": 76130408
+        },
+        "2007": {
+            "Payroll Rank": 10,
+            "Payroll": 71323049
+        },
+        "2006": {
+            "Payroll Rank": 7,
+            "Payroll": 65841120
+        },
+        "2005": {
+            "Payroll Rank": 24,
+            "Payroll": 53626924
+        },
+        "2004": {
+            "Payroll Rank": 27,
+            "Payroll": 44598682
+        }
+    },
+    "Portland Trail Blazers": {
+        "2023": {
+            "Payroll Rank": 16,
+            "Payroll": 165257649
+        },
+        "2022": {
+            "Payroll Rank": 22,
+            "Payroll": 144997250
+        },
+        "2021": {
+            "Payroll Rank": 26,
+            "Payroll": 124788473
+        },
+        "2020": {
+            "Payroll Rank": 12,
+            "Payroll": 131904647
+        },
+        "2019": {
+            "Payroll Rank": 2,
+            "Payroll": 131979953
+        },
+        "2018": {
+            "Payroll Rank": 6,
+            "Payroll": 130256600
+        },
+        "2017": {
+            "Payroll Rank": 11,
+            "Payroll": 118708146
+        },
+        "2016": {
+            "Payroll Rank": 2,
+            "Payroll": 119732234
+        },
+        "2015": {
+            "Payroll Rank": 30,
+            "Payroll": 61685814
+        },
+        "2014": {
+            "Payroll Rank": 18,
+            "Payroll": 69936842
+        },
+        "2013": {
+            "Payroll Rank": 21,
+            "Payroll": 61260350
+        },
+        "2012": {
+            "Payroll Rank": 25,
+            "Payroll": 59442596
+        },
+        "2011": {
+            "Payroll Rank": 3,
+            "Payroll": 80920717
+        },
+        "2010": {
+            "Payroll Rank": 6,
+            "Payroll": 74584058
+        },
+        "2009": {
+            "Payroll Rank": 30,
+            "Payroll": 56946258
+        },
+        "2008": {
+            "Payroll Rank": 4,
+            "Payroll": 80260059
+        },
+        "2007": {
+            "Payroll Rank": 8,
+            "Payroll": 73241335
+        },
+        "2006": {
+            "Payroll Rank": 4,
+            "Payroll": 75026386
+        },
+        "2005": {
+            "Payroll Rank": 16,
+            "Payroll": 60017964
+        },
+        "2004": {
+            "Payroll Rank": 3,
+            "Payroll": 83671309
+        }
+    },
+    "Sacramento Kings": {
+        "2023": {
+            "Payroll Rank": 22,
+            "Payroll": 154864021
+        },
+        "2022": {
+            "Payroll Rank": 23,
+            "Payroll": 139423615
+        },
+        "2021": {
+            "Payroll Rank": 21,
+            "Payroll": 130457848
+        },
+        "2020": {
+            "Payroll Rank": 28,
+            "Payroll": 106847430
+        },
+        "2019": {
+            "Payroll Rank": 22,
+            "Payroll": 113796966
+        },
+        "2018": {
+            "Payroll Rank": 28,
+            "Payroll": 101466920
+        },
+        "2017": {
+            "Payroll Rank": 24,
+            "Payroll": 99587185
+        },
+        "2016": {
+            "Payroll Rank": 18,
+            "Payroll": 95596327
+        },
+        "2015": {
+            "Payroll Rank": 25,
+            "Payroll": 70610560
+        },
+        "2014": {
+            "Payroll Rank": 15,
+            "Payroll": 73379071
+        },
+        "2013": {
+            "Payroll Rank": 23,
+            "Payroll": 59174155
+        },
+        "2012": {
+            "Payroll Rank": 28,
+            "Payroll": 54421935
+        },
+        "2011": {
+            "Payroll Rank": 30,
+            "Payroll": 48950236
+        },
+        "2010": {
+            "Payroll Rank": 30,
+            "Payroll": 45268465
+        },
+        "2009": {
+            "Payroll Rank": 17,
+            "Payroll": 67515718
+        },
+        "2008": {
+            "Payroll Rank": 17,
+            "Payroll": 69204512
+        },
+        "2007": {
+            "Payroll Rank": 20,
+            "Payroll": 63403225
+        },
+        "2006": {
+            "Payroll Rank": 13,
+            "Payroll": 64296611
+        },
+        "2005": {
+            "Payroll Rank": 12,
+            "Payroll": 62811975
+        },
+        "2004": {
+            "Payroll Rank": 11,
+            "Payroll": 61807688
+        }
+    },
+    "San Antonio Spurs": {
+        "2023": {
+            "Payroll Rank": 26,
+            "Payroll": 142059473
+        },
+        "2022": {
+            "Payroll Rank": 30,
+            "Payroll": 104545376
+        },
+        "2021": {
+            "Payroll Rank": 23,
+            "Payroll": 127655401
+        },
+        "2020": {
+            "Payroll Rank": 19,
+            "Payroll": 129537825
+        },
+        "2019": {
+            "Payroll Rank": 16,
+            "Payroll": 119217331
+        },
+        "2018": {
+            "Payroll Rank": 15,
+            "Payroll": 121588790
+        },
+        "2017": {
+            "Payroll Rank": 16,
+            "Payroll": 114633844
+        },
+        "2016": {
+            "Payroll Rank": 4,
+            "Payroll": 112017779
+        },
+        "2015": {
+            "Payroll Rank": 5,
+            "Payroll": 87832839
+        },
+        "2014": {
+            "Payroll Rank": 17,
+            "Payroll": 70770209
+        },
+        "2013": {
+            "Payroll Rank": 19,
+            "Payroll": 63115911
+        },
+        "2012": {
+            "Payroll Rank": 8,
+            "Payroll": 69838600
+        },
+        "2011": {
+            "Payroll Rank": 9,
+            "Payroll": 73732762
+        },
+        "2010": {
+            "Payroll Rank": 11,
+            "Payroll": 69522311
+        },
+        "2009": {
+            "Payroll Rank": 7,
+            "Payroll": 79338309
+        },
+        "2008": {
+            "Payroll Rank": 22,
+            "Payroll": 68020487
+        },
+        "2007": {
+            "Payroll Rank": 11,
+            "Payroll": 70048523
+        },
+        "2006": {
+            "Payroll Rank": 8,
+            "Payroll": 65654320
+        },
+        "2005": {
+            "Payroll Rank": 10,
+            "Payroll": 63570274
+        },
+        "2004": {
+            "Payroll Rank": 24,
+            "Payroll": 47504123
+        }
+    },
+    "Oklahoma City Thunder": {
+        "2023": {
+            "Payroll Rank": 19,
+            "Payroll": 160695875
+        },
+        "2022": {
+            "Payroll Rank": 18,
+            "Payroll": 148856338
+        },
+        "2021": {
+            "Payroll Rank": 30,
+            "Payroll": 82022873
+        },
+        "2020": {
+            "Payroll Rank": 30,
+            "Payroll": 95774839
+        },
+        "2019": {
+            "Payroll Rank": 1,
+            "Payroll": 132017938
+        },
+        "2018": {
+            "Payroll Rank": 3,
+            "Payroll": 144916427
+        },
+        "2017": {
+            "Payroll Rank": 3,
+            "Payroll": 134534640
+        },
+        "2016": {
+            "Payroll Rank": 22,
+            "Payroll": 91230089
+        },
+        "2015": {
+            "Payroll Rank": 3,
+            "Payroll": 95708387
+        },
+        "2014": {
+            "Payroll Rank": 7,
+            "Payroll": 80408520
+        },
+        "2013": {
+            "Payroll Rank": 10,
+            "Payroll": 71653401
+        },
+        "2012": {
+            "Payroll Rank": 11,
+            "Payroll": 68924100
+        },
+        "2011": {
+            "Payroll Rank": 21,
+            "Payroll": 59501709
+        },
+        "2010": {
+            "Payroll Rank": 25,
+            "Payroll": 55922488
+        },
+        "2009": {
+            "Payroll Rank": 28,
+            "Payroll": 58578614
+        },
+        "2008": {
+            "Payroll Rank": 18,
+            "Payroll": 68341605
+        },
+        "2007": {
+            "Payroll Rank": 26,
+            "Payroll": 60861388
+        },
+        "2006": {
+            "Payroll Rank": 25,
+            "Payroll": 56986831
+        },
+        "2005": {
+            "Payroll Rank": 27,
+            "Payroll": 49253379
+        },
+        "2004": {
+            "Payroll Rank": 21,
+            "Payroll": 53821301
+        }
+    },
+    "Toronto Raptors": {
+        "2023": {
+            "Payroll Rank": 17,
+            "Payroll": 164473243
+        },
+        "2022": {
+            "Payroll Rank": 14,
+            "Payroll": 150992313
+        },
+        "2021": {
+            "Payroll Rank": 18,
+            "Payroll": 134896484
+        },
+        "2020": {
+            "Payroll Rank": 20,
+            "Payroll": 129131910
+        },
+        "2019": {
+            "Payroll Rank": 13,
+            "Payroll": 122463495
+        },
+        "2018": {
+            "Payroll Rank": 4,
+            "Payroll": 137793831
+        },
+        "2017": {
+            "Payroll Rank": 13,
+            "Payroll": 116929373
+        },
+        "2016": {
+            "Payroll Rank": 6,
+            "Payroll": 108599970
+        },
+        "2015": {
+            "Payroll Rank": 24,
+            "Payroll": 71591189
+        },
+        "2014": {
+            "Payroll Rank": 6,
+            "Payroll": 81317963
+        },
+        "2013": {
+            "Payroll Rank": 11,
+            "Payroll": 71561643
+        },
+        "2012": {
+            "Payroll Rank": 20,
+            "Payroll": 63708138
+        },
+        "2011": {
+            "Payroll Rank": 28,
+            "Payroll": 55063049
+        },
+        "2010": {
+            "Payroll Rank": 10,
+            "Payroll": 69992648
+        },
+        "2009": {
+            "Payroll Rank": 16,
+            "Payroll": 67822433
+        },
+        "2008": {
+            "Payroll Rank": 8,
+            "Payroll": 73446970
+        },
+        "2007": {
+            "Payroll Rank": 15,
+            "Payroll": 66042375
+        },
+        "2006": {
+            "Payroll Rank": 28,
+            "Payroll": 51015491
+        },
+        "2005": {
+            "Payroll Rank": 13,
+            "Payroll": 62411884
+        },
+        "2004": {
+            "Payroll Rank": 12,
+            "Payroll": 61703775
+        }
+    },
+    "Utah Jazz": {
+        "2023": {
+            "Payroll Rank": 29,
+            "Payroll": 133538448
+        },
+        "2022": {
+            "Payroll Rank": 19,
+            "Payroll": 148738241
+        },
+        "2021": {
+            "Payroll Rank": 6,
+            "Payroll": 149760719
+        },
+        "2020": {
+            "Payroll Rank": 6,
+            "Payroll": 136881324
+        },
+        "2019": {
+            "Payroll Rank": 17,
+            "Payroll": 118910311
+        },
+        "2018": {
+            "Payroll Rank": 23,
+            "Payroll": 113826156
+        },
+        "2017": {
+            "Payroll Rank": 19,
+            "Payroll": 105606838
+        },
+        "2016": {
+            "Payroll Rank": 30,
+            "Payroll": 80138192
+        },
+        "2015": {
+            "Payroll Rank": 28,
+            "Payroll": 63608425
+        },
+        "2014": {
+            "Payroll Rank": 24,
+            "Payroll": 60847538
+        },
+        "2013": {
+            "Payroll Rank": 27,
+            "Payroll": 56911999
+        },
+        "2012": {
+            "Payroll Rank": 17,
+            "Payroll": 65657569
+        },
+        "2011": {
+            "Payroll Rank": 23,
+            "Payroll": 58178016
+        },
+        "2010": {
+            "Payroll Rank": 5,
+            "Payroll": 75855296
+        },
+        "2009": {
+            "Payroll Rank": 11,
+            "Payroll": 71905244
+        },
+        "2008": {
+            "Payroll Rank": 26,
+            "Payroll": 65841407
+        },
+        "2007": {
+            "Payroll Rank": 18,
+            "Payroll": 64959089
+        },
+        "2006": {
+            "Payroll Rank": 20,
+            "Payroll": 62364364
+        },
+        "2005": {
+            "Payroll Rank": 18,
+            "Payroll": 57372902
+        },
+        "2004": {
+            "Payroll Rank": 28,
+            "Payroll": 43515760
+        }
+    },
+    "Memphis Grizzlies": {
+        "2023": {
+            "Payroll Rank": 18,
+            "Payroll": 162649524
+        },
+        "2022": {
+            "Payroll Rank": 26,
+            "Payroll": 127139520
+        },
+        "2021": {
+            "Payroll Rank": 29,
+            "Payroll": 117284457
+        },
+        "2020": {
+            "Payroll Rank": 11,
+            "Payroll": 132022601
+        },
+        "2019": {
+            "Payroll Rank": 29,
+            "Payroll": 98495848
+        },
+        "2018": {
+            "Payroll Rank": 10,
+            "Payroll": 125188633
+        },
+        "2017": {
+            "Payroll Rank": 17,
+            "Payroll": 110700149
+        },
+        "2016": {
+            "Payroll Rank": 5,
+            "Payroll": 110083520
+        },
+        "2015": {
+            "Payroll Rank": 11,
+            "Payroll": 83223881
+        },
+        "2014": {
+            "Payroll Rank": 12,
+            "Payroll": 75158730
+        },
+        "2013": {
+            "Payroll Rank": 9,
+            "Payroll": 71992885
+        },
+        "2012": {
+            "Payroll Rank": 22,
+            "Payroll": 63054115
+        },
+        "2011": {
+            "Payroll Rank": 12,
+            "Payroll": 70628007
+        },
+        "2010": {
+            "Payroll Rank": 9,
+            "Payroll": 70241344
+        },
+        "2009": {
+            "Payroll Rank": 29,
+            "Payroll": 57287474
+        },
+        "2008": {
+            "Payroll Rank": 30,
+            "Payroll": 55958148
+        },
+        "2007": {
+            "Payroll Rank": 29,
+            "Payroll": 54118526
+        },
+        "2006": {
+            "Payroll Rank": 21,
+            "Payroll": 61960489
+        },
+        "2005": {
+            "Payroll Rank": 8,
+            "Payroll": 67525538
+        },
+        "2004": {
+            "Payroll Rank": 6,
+            "Payroll": 67010830
+        }
+    },
+    "Washington Wizards": {
+        "2023": {
+            "Payroll Rank": 23,
+            "Payroll": 150856313
+        },
+        "2022": {
+            "Payroll Rank": 10,
+            "Payroll": 152008934
+        },
+        "2021": {
+            "Payroll Rank": 22,
+            "Payroll": 128019790
+        },
+        "2020": {
+            "Payroll Rank": 14,
+            "Payroll": 131294012
+        },
+        "2019": {
+            "Payroll Rank": 14,
+            "Payroll": 121296256
+        },
+        "2018": {
+            "Payroll Rank": 11,
+            "Payroll": 123747588
+        },
+        "2017": {
+            "Payroll Rank": 5,
+            "Payroll": 123306396
+        },
+        "2016": {
+            "Payroll Rank": 9,
+            "Payroll": 104016580
+        },
+        "2015": {
+            "Payroll Rank": 9,
+            "Payroll": 85055155
+        },
+        "2014": {
+            "Payroll Rank": 16,
+            "Payroll": 73372974
+        },
+        "2013": {
+            "Payroll Rank": 18,
+            "Payroll": 64698822
+        },
+        "2012": {
+            "Payroll Rank": 24,
+            "Payroll": 59715539
+        },
+        "2011": {
+            "Payroll Rank": 27,
+            "Payroll": 55386345
+        },
+        "2010": {
+            "Payroll Rank": 24,
+            "Payroll": 58324988
+        },
+        "2009": {
+            "Payroll Rank": 10,
+            "Payroll": 73440274
+        },
+        "2008": {
+            "Payroll Rank": 12,
+            "Payroll": 70743317
+        },
+        "2007": {
+            "Payroll Rank": 17,
+            "Payroll": 65278996
+        },
+        "2006": {
+            "Payroll Rank": 19,
+            "Payroll": 62733705
+        },
+        "2005": {
+            "Payroll Rank": 23,
+            "Payroll": 54555947
+        },
+        "2004": {
+            "Payroll Rank": 22,
+            "Payroll": 49797050
+        }
+    },
+    "Detroit Pistons": {
+        "2023": {
+            "Payroll Rank": 27,
+            "Payroll": 138469146
+        },
+        "2022": {
+            "Payroll Rank": 25,
+            "Payroll": 129153570
+        },
+        "2021": {
+            "Payroll Rank": 20,
+            "Payroll": 131120355
+        },
+        "2020": {
+            "Payroll Rank": 26,
+            "Payroll": 117041599
+        },
+        "2019": {
+            "Payroll Rank": 26,
+            "Payroll": 104527576
+        },
+        "2018": {
+            "Payroll Rank": 7,
+            "Payroll": 126557932
+        },
+        "2017": {
+            "Payroll Rank": 9,
+            "Payroll": 119773191
+        },
+        "2016": {
+            "Payroll Rank": 7,
+            "Payroll": 106492988
+        },
+        "2015": {
+            "Payroll Rank": 13,
+            "Payroll": 77256014
+        },
+        "2014": {
+            "Payroll Rank": 21,
+            "Payroll": 67410675
+        },
+        "2013": {
+            "Payroll Rank": 20,
+            "Payroll": 62387432
+        },
+        "2012": {
+            "Payroll Rank": 12,
+            "Payroll": 68807497
+        },
+        "2011": {
+            "Payroll Rank": 11,
+            "Payroll": 70923605
+        },
+        "2010": {
+            "Payroll Rank": 21,
+            "Payroll": 65517821
+        },
+        "2009": {
+            "Payroll Rank": 26,
+            "Payroll": 60185833
+        },
+        "2008": {
+            "Payroll Rank": 10,
+            "Payroll": 71434174
+        },
+        "2007": {
+            "Payroll Rank": 16,
+            "Payroll": 65898875
+        },
+        "2006": {
+            "Payroll Rank": 24,
+            "Payroll": 59010951
+        },
+        "2005": {
+            "Payroll Rank": 17,
+            "Payroll": 59619275
+        },
+        "2004": {
+            "Payroll Rank": 20,
+            "Payroll": 54762481
+        }
+    },
+    "Charlotte Hornets": {
+        "2023": {
+            "Payroll Rank": 28,
+            "Payroll": 137491457
+        },
+        "2022": {
+            "Payroll Rank": 28,
+            "Payroll": 125874047
+        },
+        "2021": {
+            "Payroll Rank": 27,
+            "Payroll": 122139566
+        },
+        "2020": {
+            "Payroll Rank": 27,
+            "Payroll": 108218809
+        },
+        "2019": {
+            "Payroll Rank": 30,
+            "Payroll": 96552033
+        },
+        "2018": {
+            "Payroll Rank": 16,
+            "Payroll": 121427859
+        },
+        "2017": {
+            "Payroll Rank": 12,
+            "Payroll": 117382664
+        },
+        "2016": {
+            "Payroll Rank": 10,
+            "Payroll": 103054004
+        },
+        "2015": {
+            "Payroll Rank": 15,
+            "Payroll": 76860006
+        },
+        "2014": {
+            "Payroll Rank": 22,
+            "Payroll": 66792937
+        },
+        "2013": {
+            "Payroll Rank": 22,
+            "Payroll": 60395651
+        },
+        "2012": {
+            "Payroll Rank": 26,
+            "Payroll": 58122566
+        },
+        "2011": {
+            "Payroll Rank": 24,
+            "Payroll": 57902024
+        },
+        "2010": {
+            "Payroll Rank": 18,
+            "Payroll": 66542696
+        },
+        "2009": {
+            "Payroll Rank": 15,
+            "Payroll": 68681758
+        },
+        "2008": {
+            "Payroll Rank": 27,
+            "Payroll": 62866926
+        },
+        "2007": {
+            "Payroll Rank": 30,
+            "Payroll": 53745468
+        },
+        "2006": {
+            "Payroll Rank": 30,
+            "Payroll": 41964046
+        },
+        "2005": {
+            "Payroll Rank": 30,
+            "Payroll": 33458932
+        },
+        "2004": {
+            "Payroll Rank": 30,
+            "Payroll": 23922578
+        }
+    }
+}
