@@ -2,6 +2,8 @@
 
 This is a project for analyzing data from the NBA league, focusing on seasons from 2004 onwards.
 
+## UNZIP players.zip
+
 ## Package Installation
 
 To run this project, you need to install the following packages:
